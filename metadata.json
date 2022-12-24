@@ -1,0 +1,10 @@
+{
+  "name": "rTheme Integration",
+  "description": "Loads stylesheet created by rtheme-plugin-gnomeshell when the theme is changed.\n\nRequires rThemeD to be installed and running: https://github.com/risiIndustries/rtheme.\n\nIMPORTANT: Do not install this extension if you are running risiOS because this functionality is already built into risiGNOME.",
+  "uuid": "rThemeShell@risi.io",
+  "shell-version": [
+    "43"
+  ],
+  "url": "https://github.com/risiIndustries/rThemeShellExtension",
+  "version": 1
+}
